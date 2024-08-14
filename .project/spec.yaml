@@ -103,7 +103,7 @@ execution:
     sharedMemoryMB: 4096
   secrets:
   - variable: NVCF_RUN_KEY
-    description: NVCF Run Key for Cloud Inference
+    description: ""
   mounts:
   - type: project
     target: /project/
